@@ -1,5 +1,5 @@
 # Mastering Java for Data Science
-This is the code repository for [Mastering Java for Data Science](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering Java for Data Science](https://www.packtpub.com/application-development/mastering-java-for-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781786460677), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Java is the most popular programming language, according to the TIOBE index, and it is a very typical choice for running production systems in many companies, both in the startup world and among large enterprises.
 
@@ -28,11 +28,11 @@ You need to have any latest system with at least 2GB RAM and a Windows 7 /Ubuntu
 Maven 3.0.0 or above installed.
 
 ## Related Products
-* [Java for Data Science](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
+* [Java for Data Science](https://www.packtpub.com/application-development/java-for-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
 
-* [Java Data Science Cookbook](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
+* [Java Data Science Cookbook](https://www.packtpub.com/application-development/java-data-science-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
 
-* [JavaFX 1.2 Application Development Cookbook](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
+* [JavaFX 1.2 Application Development Cookbook](https://www.packtpub.com/application-development/?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
