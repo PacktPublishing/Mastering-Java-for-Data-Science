@@ -28,7 +28,7 @@ You need to have any latest system with at least 2GB RAM and a Windows 7 /Ubuntu
 Maven 3.0.0 or above installed.
 
 ## Related Products
-* [ython Design Patterns [Video]](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
+* [Java for Data Science](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
 
 * [Java Data Science Cookbook](https://www.packtpub.com/application-development/python-design-patterns-video?utm_source=github&utm_medium=repository&utm_campaign=9781786460677)
 
