@@ -29,11 +29,11 @@ You need to have any latest system with at least 2GB RAM and a Windows 7 /Ubuntu
 Maven 3.0.0 or above installed.
 
 ## Related Products
-* [Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781782174271)
+* [Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785280115)
 
-* [Mastering R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781782174271)
+* [Mastering R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-r-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781784399160)
 
-* [Mastering Spark for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781782174271)
+* [Mastering Spark for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-spark-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785882142)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
