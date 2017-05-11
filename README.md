@@ -1,5 +1,10 @@
 # Mastering Java for Data Science
 This is the code repository for [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781782174271), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+
+This is the official code repository for the book.
+You can find the unofficial one at https://github.com/alexeygrigorev/mastering-java-data-science. 
+The unofficial repository contains the latest code fixes and is maintained by the author.
+
 ## About the Book
 Java is the most popular programming language, according to the TIOBE index, and it is a typical choice for running production systems in many companies, both in the startup world and among large enterprises.
 
@@ -27,6 +32,7 @@ System.out.println(list);
 You need to have any latest system with at least 2GB RAM and a Windows 7 /Ubuntu
 14.04/Mac OS X operating system. Further, you will need to have Java 1.8.0 or above and
 Maven 3.0.0 or above installed.
+
 
 ## Related Products
 * [Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785280115)
